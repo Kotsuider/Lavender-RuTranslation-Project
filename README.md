@@ -1,4 +1,4 @@
-#Проект перевода Kourin no Machi, Lavender no Shoujo на русский язык
+# Проект перевода Kourin no Machi, Lavender no Shoujo на русский язык
 
 ##Статус
 - [x] Перевод графики
