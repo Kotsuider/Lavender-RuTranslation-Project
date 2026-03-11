@@ -3,7 +3,6 @@
 *.emb
 *.cf
 /DATAR
-/plugin
 /patch_old
 /savedata
 /patch
@@ -12,7 +11,6 @@ evimage.xp3
 fgimage.xp3
 readme.txt
 voice.xp3
-version.dll
 lavender_srp.exe
 lavender_start.exe
 SupportTools.exe
@@ -20,3 +18,17 @@ Uninstall.exe
 ファイル破損チェックツール.exe
 lavender.exe
 /patch — копия
+plugin/extrans.dll
+plugin/fstat.dll
+plugin/kagexopt.dll
+plugin/kernel32.dll
+plugin/krmovie.dll
+plugin/layerExBTOA.dll
+plugin/layerExImage.dll
+plugin/layerExRaster.dll
+plugin/savestruct.dll
+plugin/shrinkCopy.dll
+plugin/win32dialog.dll
+plugin/windowEx.dll
+plugin/wuvorbis.dll
+plugin/csvParser.dll
