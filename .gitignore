@@ -32,3 +32,6 @@ plugin/win32dialog.dll
 plugin/windowEx.dll
 plugin/wuvorbis.dll
 plugin/csvParser.dll
+/patch2
+/patch_orig
+/plugin
