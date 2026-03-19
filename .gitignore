@@ -18,20 +18,5 @@ Uninstall.exe
 ファイル破損チェックツール.exe
 lavender.exe
 /patch — копия
-plugin/extrans.dll
-plugin/fstat.dll
-plugin/kagexopt.dll
-plugin/kernel32.dll
-plugin/krmovie.dll
-plugin/layerExBTOA.dll
-plugin/layerExImage.dll
-plugin/layerExRaster.dll
-plugin/savestruct.dll
-plugin/shrinkCopy.dll
-plugin/win32dialog.dll
-plugin/windowEx.dll
-plugin/wuvorbis.dll
-plugin/csvParser.dll
 /patch2
 /patch_orig
-/plugin
