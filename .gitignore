@@ -20,3 +20,6 @@ lavender.exe
 /patch — копия
 /patch2
 /patch_orig
+/ForPatchCorrection/ASD
+/ForPatchCorrection/__pycache__
+ForPatchCorrection/build_patch.bat
